@@ -64,3 +64,5 @@ From this new data frame called [data], the identifier [IID] column is transform
 The last three blocks of code are generating different flavors of highlighting the sample(s) of interest with the corresponding metadata (origin and/or breed). Below all three block of code with their corresponding output.
 
 The last piece of code generates a three-dimensional (3D) representation of the scatterplot. This may be used when the first two axes do not give a clear separation of the different origins and/or breeds.
+
+For a Word-document version containing the screenshots: please openthe file "Extensive explanation of using the diversity browser.docx".
